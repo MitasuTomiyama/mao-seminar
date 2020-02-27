@@ -5,6 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 #メンバー
 ヤッホー
+未就学です
 
 # ディレクトリ構成
 ```
